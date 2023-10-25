@@ -25,7 +25,10 @@ Run the application using Python. Open a web browser and navigate to the provide
 
 # Dependencies:
 
-Dash: A Python web application framework for building interactive web applications.
+Dash: A Python web application framework for building interactive web applications
+
+![image](https://github.com/sumanthkumar10/Data-Analysis-Dashboard-Plotly-Dash/assets/54570159/209580a2-9d69-44e5-bb66-f85d482694ef)
+
 Plotly: A library for creating interactive, publication-quality graphs and figures.
 Pandas: A data manipulation and analysis library for working with structured data.
 
